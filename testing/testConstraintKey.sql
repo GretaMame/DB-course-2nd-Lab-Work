@@ -1,0 +1,1 @@
+INSERT INTO grma3240.Dalykas VALUES (14, 'Muzika');

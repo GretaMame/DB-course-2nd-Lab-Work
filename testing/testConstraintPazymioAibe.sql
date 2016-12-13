@@ -1,0 +1,1 @@
+INSERT INTO grma3240.Mokymasis VALUES (3,2,-8.6);

@@ -1,0 +1,7 @@
+DROP TABLE grma3240.Mokinys CASCADE;
+DROP TABLE grma3240.Mokytojas CASCADE;
+DROP TABLE grma3240.Dalykas CASCADE;
+DROP TABLE grma3240.Klase CASCADE;
+DROP TABLE grma3240.Mokymasis;
+DROP TABLE grma3240.Mokymas;
+DROP TABLE grma3240.Tvarkarastis;

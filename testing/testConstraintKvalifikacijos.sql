@@ -1,0 +1,1 @@
+INSERT INTO grma3240.Mokytojas VALUES (13, 'Antanina', 'Kupriene', '863420075', null, 'megejas');
